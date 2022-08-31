@@ -1,3 +1,3 @@
 # symmetrical-happiness
 
-Hej på dig!
+Hej!
